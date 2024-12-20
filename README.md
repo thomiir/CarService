@@ -1,0 +1,3 @@
+- Small C++ and QT application for my OOP Course
+- the application currently features a GUI where a user can perform CRUD operations on the car list, filters and sorts
+-<a href="https://imgur.com/a/hwsRyQg">Screenshot</a> 
